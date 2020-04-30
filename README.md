@@ -1,6 +1,6 @@
 # SimscapeContactDemo
 
-A demo for Simulation a contatc simscape model
+A demo for Simulation contact simscape model
 
 %***************************************%
 
