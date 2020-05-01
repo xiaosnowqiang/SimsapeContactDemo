@@ -4,8 +4,10 @@ A demo for Simulation contact simscape model
 
 %***************************************%
 
-This is a simple example for testing the simulation of contact in Simscape with Contact_Forces_Lib
+This is a simple example for testing the simulation of contact in Simscape with Contact_Forces_Lib.
+
 And below the Contact_Forces_Lib,there are also some example you can get some useful information about modeling. 
+
 More details please visit the web:https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-introduction-to-contact-modeling-part-2-1502716250563.html
 
 %***************************************%
